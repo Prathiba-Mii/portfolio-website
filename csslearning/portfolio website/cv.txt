@@ -1,0 +1,75 @@
+
+**Prathiba**  
+Hyderabad, Telangana, India  
+Email: prathibhakamle@gmail.com 
+
+---
+
+### **Objective**  
+A highly motivated and detail-oriented B.Tech graduate in Data Science from VBIT College, Hyderabad, seeking opportunities in software development and data analysis. Proficient in frontend development and programming, with hands-on experience in web technologies and a passion for creating impactful solutions.
+
+---
+
+### **Education**  
+**Bachelor of Technology (B.Tech) in Data Science**  
+VBIT College, Hyderabad  
+Final Year | SSC Background  
+
+---
+
+### **Skills**  
+- **Programming Languages:** HTML, CSS, JavaScript, Java (Data Structures and Algorithms)  
+- **Tools & Technologies:** Git, GitHub, Visual Studio Code  
+- **Web Development:** Bootstrap 5.0.2, Frontend Development, Responsive Design  
+- **Soft Skills:** Problem-solving, Communication, Time Management  
+- **Additional Skills:** Reasoning, Verbal Ability  
+
+---
+
+### **Experience**  
+- Proficient in building responsive and user-friendly websites using HTML, CSS, and JavaScript.  
+- Familiar with version control systems like Git and GitHub for managing collaborative projects.  
+- Hands-on experience with Visual Studio Code for efficient coding and debugging.
+
+---
+
+### **Projects**  
+**1. Environmental Website** *(Ongoing)*  
+- Developing a website focused on the components of the environment, leveraging Bootstrap 5.0.2 for responsive and user-friendly design.  
+- Showcasing knowledge of HTML, CSS, and JavaScript to create an informative and visually appealing layout.  
+
+**2. Java DSA Problem Solving** *(Personal Project)*  
+- Solved multiple DSA problems in Java, enhancing problem-solving skills and coding efficiency.  
+- Focused on algorithms like sorting, searching, and data structures like arrays, linked lists, and trees.  
+
+---
+
+### **Certifications**  
+- **Juniper Certificate**  
+- **Power BI Certificate**  
+- **AICTE Certificate**  
+
+---
+
+### **Languages**  
+- English (Intermediate, Improving Speaking Skills)  
+- Marathi  
+- Kannada  
+- Hindi  
+- Telugu  
+
+---
+
+### **Hobbies & Interests**  
+- Cooking delicious vegetarian meals  
+- Spending time in nature  
+- Learning new technologies and improving skills  
+
+---
+
+### **Achievements**  
+- Successfully developed an understanding of web development and DSA through self-directed learning.  
+- Earned certifications in Power BI, Juniper, and AICTE to enhance technical knowledge.  
+
+
+
