@@ -1,0 +1,63 @@
+body{
+  width: 100%;
+  height: 100vh;
+  background-color: hsl(0, 0%, 94%);
+  /* background-color: hsl(0, 0%, 94%); for background white shade in that it is good  */
+  background-image: url(radhakrishna.png);
+  background-repeat: no-repeat;
+  /* no repeat is used for not getting displaying photo many tyms */
+  background-size: 100% 100% ;
+  /* background-position: left bottom;
+  background blend is combines 2 photos */
+}
+
+h1{
+  color: #0f0e0e;
+  /* color: red;
+  color:rgb(255,0,0); 
+  alpha is between 0 - 1 (It shows the transferacy or objecity of the text )
+   color: rgba(250, 0, 0, 1);
+  Hexa Decimal -- color:#ff0000
+  Colorhunt (website for colors)
+  Current color, transferacy property also see 
+  current color means it is shows current color if u change section of color but in the para its not cmging then we use current color property (Current color)
+  transfereacy shows how dark, light it will visible
+  HSL colors (Hue,Saturation,Lightness)
+  color:hsl(226,84%,17%)
+  Hue = A pure Color, Tint = A pure color with just white added(right to left in rgb color box of colors), Shade = A pure color with just black added (see vertically it is becoming black in rgb color box of colors), Tone = A pure color with just grey added ( see diagonally down u will see)
+  if fff is white color,000 is black color if any no is repeting the same time again and again they it is grey ex: color:#999 ( if same no.s repeating then it is not needed to write 6 tyms 3 tym writing is enough)
+  */
+  
+}
+
+p{
+   background-color: purple;
+
+}
+
+.para {
+    color: rgb(255, 255,0);
+    /* red,green,blue  values in rgb by that colors are created rgb(255,0,255) is Magenta*/
+}
+
+#btn {
+  background-color: #ff3368;
+  color:#fff;
+}
+
+#btn:hover {
+  background-color: black;
+  color:white;
+}
+
+h1:hover{
+    color: #8a2be2;
+}
+
+/*I AM CONFIDENT
+I AM BEAUTIFUL 
+I AM SMART
+I AM INTELLENT
+I AM LUCKY , LUCK FOLLOWS ME EVERYWHERE I GO!
+ 
+THIS IS CALLED MULTIPLE LINE OF COMMENTS (/* ----*/
